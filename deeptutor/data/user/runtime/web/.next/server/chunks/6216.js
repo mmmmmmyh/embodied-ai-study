@@ -1,0 +1,1 @@
+"use strict";exports.id=6216,exports.ids=[6216],exports.modules={66216:(a,b,c)=>{c.r(b),c.d(b,{default:()=>h});var d=c(48249),e=c(44384),f=c(75958),g=c(79292);function h(){let{t:a}=(0,e.Bd)();return(0,d.jsxs)("div",{children:[(0,d.jsx)(g.Gb,{title:a("Search"),description:a("Configure and test search engines using saved providers.")}),(0,d.jsx)(f.e,{page:"search"})]})}}};

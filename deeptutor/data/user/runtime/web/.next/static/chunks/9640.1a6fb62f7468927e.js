@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9640],{69640:(e,t,n)=>{n.d(t,{V:()=>u,notify:()=>f});let r=new Set,o=0;function f(e,t={}){if(!e)return;let n={id:o+=1,message:e,tone:t.tone??"info",durationMs:t.durationMs??4e3};for(let e of Array.from(r))try{e(n)}catch{}}function u(e){return r.add(e),()=>{r.delete(e)}}}}]);

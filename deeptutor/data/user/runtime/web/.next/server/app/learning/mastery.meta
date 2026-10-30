@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(workspace)/layout,_N_T_/(workspace)/learning/layout,_N_T_/(workspace)/learning/mastery/layout,_N_T_/(workspace)/learning/mastery/page,_N_T_/learning/mastery"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KHdvcmtzcGFjZSk/learning/mastery/__PAGE__",
+    "/!KHdvcmtzcGFjZSk/learning/mastery",
+    "/!KHdvcmtzcGFjZSk/learning",
+    "/!KHdvcmtzcGFjZSk",
+    "/_index",
+    "/_head"
+  ]
+}

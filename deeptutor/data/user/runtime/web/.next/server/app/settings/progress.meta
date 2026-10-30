@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(utility)/layout,_N_T_/(utility)/settings/layout,_N_T_/(utility)/settings/progress/layout,_N_T_/(utility)/settings/progress/page,_N_T_/settings/progress"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KHV0aWxpdHkp/settings/progress/__PAGE__",
+    "/!KHV0aWxpdHkp/settings/progress",
+    "/!KHV0aWxpdHkp/settings",
+    "/!KHV0aWxpdHkp",
+    "/_index",
+    "/_head"
+  ]
+}

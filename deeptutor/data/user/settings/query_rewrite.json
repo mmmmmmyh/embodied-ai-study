@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "enabled": false,
+  "strategy": "standalone",
+  "model": "",
+  "timeout_seconds": 5.0,
+  "min_query_chars": 12
+}

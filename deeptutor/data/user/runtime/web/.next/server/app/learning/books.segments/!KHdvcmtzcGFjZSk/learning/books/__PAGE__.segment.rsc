@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[61304,[],"ClientPageRoot"]
+3:I[1849,["9114","static/chunks/9114-4f04e2ce0f85c939.js","8500","static/chunks/8500-f62a38ff68ab7f42.js","3618","static/chunks/3618-8a7e968ac950cdc5.js","8272","static/chunks/8272-fb6e095beac4e0e8.js","9035","static/chunks/9035-d778b99918a605d6.js","6783","static/chunks/6783-d690875348621f25.js","1894","static/chunks/1894-8b10b3e93c6861c3.js","3766","static/chunks/3766-cbe55746ce8dd05e.js","9797","static/chunks/9797-994ed73175354c60.js","3981","static/chunks/3981-f425dbc6f8b9dec9.js","5363","static/chunks/5363-5869df0ac0ec3e40.js","5327","static/chunks/5327-652af9ce8db7447e.js","210","static/chunks/210-c73a4a8b3df614cd.js","5964","static/chunks/5964-a1475f2d134c3531.js","7641","static/chunks/7641-eb30a8d2fa6af68e.js","6549","static/chunks/6549-8e85d9ca7463dba6.js","7189","static/chunks/7189-ab37a4ef9577ad59.js","271","static/chunks/271-fca6e93427612ed7.js","4993","static/chunks/4993-b46e619e2867b3b9.js","3277","static/chunks/3277-fb012f0e62946dfb.js","6896","static/chunks/6896-7173a1dfeff75545.js","3477","static/chunks/3477-0e528d96c140c38a.js","6385","static/chunks/app/(workspace)/learning/books/page-c6536e9d6cf5e205.js"],"default"]
+6:I[90484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/c8376a18398d359c.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8376a18398d359c.css","precedence":"next"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"v_Boq-VLLzPlvNTFdVApN"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

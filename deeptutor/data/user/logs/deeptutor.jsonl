@@ -1,0 +1,1 @@
+{"timestamp": "2026-10-30T08:56:41.070687+00:00", "level": "WARNING", "logger": "deeptutor.api.main", "message": "Failed to initialize LLM client at startup: No active LLM model is configured. Please set it in Settings > Catalog.", "context": {}}

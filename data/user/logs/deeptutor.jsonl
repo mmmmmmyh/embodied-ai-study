@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-30T08:56:26.421656+00:00", "level": "INFO", "logger": "deeptutor.services.setup.init", "message": "Created default settings: D:\\embodied-ai-study\\deeptutor\\data\\user\\settings\\interface.json", "context": {}}
+{"timestamp": "2026-10-30T08:56:26.423068+00:00", "level": "INFO", "logger": "deeptutor.services.setup.init", "message": "Created default settings: D:\\embodied-ai-study\\deeptutor\\data\\user\\settings\\main.yaml", "context": {}}
+{"timestamp": "2026-10-30T08:56:26.425068+00:00", "level": "INFO", "logger": "deeptutor.services.setup.init", "message": "Created default settings: D:\\embodied-ai-study\\deeptutor\\data\\user\\settings\\agents.yaml", "context": {}}
+{"timestamp": "2026-10-30T08:56:26.468948+00:00", "level": "INFO", "logger": "deeptutor.services.setup.init", "message": "Seeded default personas: peer, research-assistant, teacher", "context": {}}

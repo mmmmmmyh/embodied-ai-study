@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3290],{33290:(e,l,s)=>{s.r(l),s.d(l,{default:()=>t});var a=s(95155);function t({url:e,filename:l}){return(0,a.jsx)("div",{className:"flex h-full w-full items-center justify-center bg-[var(--muted)]/30 p-6",children:(0,a.jsx)("img",{src:e,alt:l,className:"max-h-full max-w-full object-contain"})})}}}]);

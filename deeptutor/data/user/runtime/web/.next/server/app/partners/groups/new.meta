@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(workspace)/layout,_N_T_/(workspace)/partners/layout,_N_T_/(workspace)/partners/groups/layout,_N_T_/(workspace)/partners/groups/new/layout,_N_T_/(workspace)/partners/groups/new/page,_N_T_/partners/groups/new"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KHdvcmtzcGFjZSk/partners/groups/new/__PAGE__",
+    "/!KHdvcmtzcGFjZSk/partners/groups/new",
+    "/!KHdvcmtzcGFjZSk/partners/groups",
+    "/!KHdvcmtzcGFjZSk/partners",
+    "/!KHdvcmtzcGFjZSk",
+    "/_index",
+    "/_head"
+  ]
+}
